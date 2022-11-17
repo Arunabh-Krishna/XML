@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="customer.xsl"?>
+<hotel_customer>
+  <customer>
+    <id>356</id>
+    <fname>Arunabh</fname>
+    <lname>Krishna</lname>
+    <street>Wall Street</street>
+    <city>New York City</city>
+    <state>New York</state>
+    <phone>9875857437</phone>
+  </customer>
+  <customer>
+    <id>678</id>
+    <fname>Arun</fname>
+    <lname>Krishna</lname>
+    <street>Church Street</street>
+    <city>Bangalore</city>
+    <state>Karnataka</state>
+    <phone>9784563210</phone>
+  </customer>
+  <customer>  
+    <id>234</id>
+    <fname>Ayushya</fname>
+    <lname>Chongder</lname>
+    <street>Station Road</street>
+    <city>Kolkata</city>
+    <state>West Bengal</state>
+    <phone>9875461237</phone>
+  </customer>
+  <customer>
+    <id>431</id>
+    <fname>Tirthajoti</fname>
+    <lname>Sinha</lname>
+    <street>Durgapur Expressway</street>
+    <city>Durgapur</city>
+    <state>West Bengal</state>
+    <phone>8904156782</phone>
+  </customer>
+  <customer>
+    <id>285</id>
+    <fname>Athul</fname>
+    <lname>A.V</lname>
+    <street>M.G Road</street>
+    <city>Iritty</city>
+    <state>Kannur</state>
+    <phone>9978412563</phone>
+  </customer>
+  <customer>
+    <id>940</id>
+    <fname>Sagnik</fname>
+    <lname>Mukhopadhyay</lname>
+    <street>Jessore Road</street>
+    <city>Kolkata</city>
+    <state>West Bengal</state>
+    <phone>9872314569</phone>
+  </customer>
+  <customer>
+    <id>123</id>
+    <fname>Debanjan</fname>
+    <lname>Basu</lname>
+    <street>Airport Road</street>
+    <city>Kolkata</city>
+    <state>West Bengal</state>
+    <phone>9214578963</phone>
+  </customer>
+</hotel_customer>
