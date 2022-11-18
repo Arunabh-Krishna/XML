@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="customer.xsl"?>
+<?xml-stylesheet type="text/xsl" href="customers.xsl"?>
 <hotel_customer>
   <customer>
     <id>356</id>
@@ -7,14 +7,16 @@
     <lname>Krishna</lname>
     <city>New York City</city>
     <state>New York</state>
+    <rent>6900</rent>
     <phone>9875857437</phone>
   </customer>
   <customer>
     <id>678</id>
     <fname>Arun</fname>
-    <lname>Krishna</lname>
+    <lname>Goplakrishnan</lname>
     <city>Bangalore</city>
     <state>Karnataka</state>
+    <rent>8000</rent>
     <phone>9784563210</phone>
   </customer>
   <customer>  
@@ -23,6 +25,7 @@
     <lname>Chongder</lname>
     <city>Kolkata</city>
     <state>West Bengal</state>
+    <rent>7000</rent>
     <phone>9875461237</phone>
   </customer>
   <customer>
@@ -31,6 +34,7 @@
     <lname>Sinha</lname>
     <city>Durgapur</city>
     <state>West Bengal</state>
+    <rent>9000</rent>
     <phone>8904156782</phone>
   </customer>
   <customer>
@@ -39,6 +43,7 @@
     <lname>A.V</lname>
     <city>Iritty</city>
     <state>Kannur</state>
+    <rent>4000</rent>
     <phone>9978412563</phone>
   </customer>
   <customer>
@@ -47,6 +52,7 @@
     <lname>Mukhopadhyay</lname>
     <city>Kolkata</city>
     <state>West Bengal</state>
+    <rent>6500</rent>
     <phone>9872314569</phone>
   </customer>
   <customer>
@@ -55,6 +61,25 @@
     <lname>Basu</lname>
     <city>Kolkata</city>
     <state>West Bengal</state>
+    <rent>8200</rent>
     <phone>9214578963</phone>
+  </customer>
+  <customer>
+    <id>563</id>
+    <fname>Kevin</fname>
+    <lname>Benny</lname>
+    <city>S.G Palaya</city>
+    <state>Bangalore</state>
+    <rent>5600</rent>
+    <phone>9219078963</phone>
+  </customer>
+  <customer>
+    <id>903</id>
+    <fname>Niel</fname>
+    <lname>Alexander</lname>
+    <city>White Field</city>
+    <state>Bangalore</state>
+    <rent>9734</rent>
+    <phone>9219003563</phone>
   </customer>
 </hotel_customer>
