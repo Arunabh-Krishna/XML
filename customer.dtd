@@ -1,10 +1,9 @@
 <!DOCTYPE hotel_customer
 [
-<!ELEMENT hotel_customer(id,fname,lname,street,city,state,phone)>
+<!ELEMENT hotel_customer(id,fname,lname,city,state,phone)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT fname (#PCDATA)>
 <!ELEMENT lname (#PCDATA)>
-<!ELEMENT street (#PCDATA)>
 <!ELEMENT city (#PCDATA)>
 <!ELEMENT state (#PCDATA)>
 <!ELEMENT phone (#PCDATA)>
